@@ -6,10 +6,39 @@
   margin: 15px auto;
   float: left;
   padding: 5px;
+  border-top: 1px solid black;
 }
 .jumbotron {
   text-align: center;
+  padding-top: 2px;
 }
 .quotes {
   text-align: center;
+}
+body {
+  margin: 0 auto;
+  text-align: center;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: grey;
+}
+.top {
+border-radius: 30px;
+}
+.card img {
+  width: 100%;
+  border-radius: 20px;
+  width: 36%;
+}
+.jumbotron img {
+  border-radius: 20px;
+  width: 25%;
+  padding-top:0px;
+}
+.col-md-3 {
+  color: blue;
+
+}
+.panel-body {
+
 }
