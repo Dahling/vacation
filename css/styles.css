@@ -1,0 +1,15 @@
+.text-muted {
+  color: red
+
+}
+.card{
+  margin: 15px auto;
+  float: left;
+  padding: 5px;
+}
+.jumbotron {
+  text-align: center;
+}
+.quotes {
+  text-align: center;
+}
